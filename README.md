@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Bienvenido a mi primerita página con estilo modernista
 
-You can use the [editor on GitHub](https://github.com/tgp034/tgp034.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Edita esto en [editor de GitHub](https://github.com/tgp034/tgp034.github.io/edit/main/README.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cuando hagas un commit, GitHub Pages usará [Jekyll](https://jekyllrb.com/) para cambiar tu página
 
-### Markdown
+## Pues esto es un subtítulo o un encabezado, no sé de estas cosas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown es un "lenguaje" con una sintaxis sencilla. Incluye convenciones para:
 
 ```markdown
-Syntax highlighted code block
 
-# Este se ve grande
-## Este es el mediano
-### Este es el pequeño
+# Texto de ejemplo 1
+## Texto de ejemplo 2
+### Texto de ejemplo 3
 
-- Bulleted
-- List
+- Lista
+- Normal
 
-1. Numbered
-2. List
+1. Lista
+2. Numérica
 
-**Bold** and _Italic_ and `Code` text
+**Negrita** y _Cursiva_ y texto de `Codigo` 
 
-[Link](url) and ![Image](src)
+[Enlace](url) y ![Imagen](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Más detalles en [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Temas de Jekyll 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tgp034/tgp034.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Tus páginas usarán el layout y estilos del tema de Jekyll seleccionado en [repository settings](https://github.com/tgp034/tgp034.github.io/settings/pages). El nombre de este tema de  Jekyll se ha guardado en `_config.yml`.
 
-### Support or Contact
+### No quiero escribir más así que dejo lo siguiente en inglés :)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
