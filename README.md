@@ -1,6 +1,6 @@
 # Bienvenido a mi primerita página con estilo modernista
 
-Edita esto en [editor de GitHub](https://github.com/tgp034/tgp034.github.io/edit/main/README.md).
+Edita esto en el [editor de GitHub](https://github.com/tgp034/tgp034.github.io/edit/main/README.md).
 
 Cuando hagas un commit, GitHub Pages usará [Jekyll](https://jekyllrb.com/) para cambiar tu página
 
