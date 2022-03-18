@@ -20,10 +20,11 @@ Markdown es un "lenguaje" con una sintaxis sencilla. Incluye convenciones para:
 1. Lista
 2. Numérica
 
+```
 **Negrita** y _Cursiva_ y texto de `Codigo` 
 
-[https://tetris.com/play-tetris](url) y ![https://i.ytimg.com/vi/cjkHZhN0Xkk/maxresdefault.jpg](src)
-```
+[https://tetris.com/play-tetris](url) 
+![https://i.ytimg.com/vi/cjkHZhN0Xkk/maxresdefault.jpg](src)
 
 Más detalles en [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
