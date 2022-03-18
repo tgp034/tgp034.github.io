@@ -22,7 +22,7 @@ Markdown es un "lenguaje" con una sintaxis sencilla. Incluye convenciones para:
 
 **Negrita** y _Cursiva_ y texto de `Codigo` 
 
-[Enlace](url) y ![Imagen](src)
+[Enlace](https://tetris.com/play-tetris) y ![Imagen](https://i.ytimg.com/vi/cjkHZhN0Xkk/maxresdefault.jpg)
 ```
 
 Más detalles en [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
